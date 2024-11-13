@@ -1,3 +1,6 @@
+html {
+    scroll-behavior:smooth;
+}
 body {
     margin: 0;
     padding: 0;
@@ -6,7 +9,7 @@ body {
 header {
     width: 100vw;
     height: 100vh;
-    background: url(header_bg.webp);
+    background: url(ultra-detailed-nebula-abstract-wallpaper-4_1562-749.avif);
     background-size: cover;
     display: flex;
 }
